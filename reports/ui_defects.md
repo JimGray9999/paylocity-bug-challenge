@@ -20,8 +20,8 @@
 - Last Name and First Name headers are reversed
 ![Reversed Headers](../screenshots/defect_2.png)
 
-- When the application has timed out, no indication this occurs
-	- only when you try to attempt any action
+- When the application has timed out, no indication this has happened
+	- only when you try to attempt any action, and there's no response
 
 - At a breakpoint size of 972px wide, the display shows a line thru Net Pay
 ![Line Display](../screenshots/line_display.png)
